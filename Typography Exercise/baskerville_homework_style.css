@@ -1,0 +1,31 @@
+{padding: 0;
+margin: 0;
+font-size:100%;
+line-height; 1em}
+
+body {width:85%;
+font-family: 'Libre Baskerville', 'OpenSans', 'Arvo', serif;
+margin: auto;
+font-size: 125%;
+background-color: white;
+color: black;
+line-height: 1.8em;}
+
+
+/*----------TYPOGRAPHY-----------------*/
+
+h3 {font:'Libre Baskerville';
+    font-weight: 80%;
+padding-top: 2em;}
+
+
+h1 {font-size: 4em;
+margin-top: .1em;
+margin-bottom: .5em;
+font-weight: 100}
+
+h2 {font: 'Librebaskerville-Italic' }
+
+
+p {font: Libre Baskerville:
+    font-weight: normal;}
