@@ -24,8 +24,21 @@ margin-top: .1em;
 margin-bottom: .5em;
 font-weight: 100}
 
-h2 {font: 'Librebaskerville-Italic' }
+h2 {font-style:italic;
+margin-bottom: 2em;}
 
 
 p {font: Libre Baskerville:
     font-weight: normal;}
+
+.firstcharacter {float:left;
+font-size: 400%;
+line-height: .84em;
+    height:.8em;}
+
+blockquote {color: grey}
+
+
+.version2, .version3 {font-family: 'Open Sans', sans-serif;}
+
+.version3 h1, h2, blockquote {font-family: 'Arvo', serif;}
