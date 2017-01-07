@@ -19,8 +19,8 @@ Week 12 Exercise
 
 A Brief History Of Type
 -----------------------
-- [Version 1](https://pearseoneill.github.io/john-baskerville/history1.html)
-- [Version 2](https://pearseoneill.github.io/john-baskerville/history2.html)
-- [Version 3](https://pearseoneill.github.io/john-baskerville/history3.html)
-- [Version 4](https://pearseoneill.github.io/john-baskerville/history4.html)
+- [Version 1](https://pearseoneill.github.io/john-baskerville/History1.html)
+- [Version 2](https://pearseoneill.github.io/john-baskerville/History2.html)
+- [Version 3](https://pearseoneill.github.io/john-baskerville/History3.html)
+- [Version 4](https://pearseoneill.github.io/john-baskerville/History4.html)
 
