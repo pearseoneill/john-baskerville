@@ -13,6 +13,14 @@ John Baskerville
 - [Version 7](https://pearseoneill.github.io/john-baskerville/baskerville7.html)
 
 Week 12 Exercise
+-----------------
 
-- [Final Work](https://pearseoneill.github.io/john-baskerville/Typography Exercise/Baskerville_homeworks)
+- [Final Work](https://pearseoneill.github.io/john-baskerville/Typography Exercise/Baskerville_homework)
+
+A Brief History Of Type
+-----------------------
+- [Version 1](https://pearseoneill.github.io/john-baskerville/history1.html)
+- [Version 2](https://pearseoneill.github.io/john-baskerville/history2.html)
+- [Version 3](https://pearseoneill.github.io/john-baskerville/history3.html)
+- [Version 4](https://pearseoneill.github.io/john-baskerville/history4.html)
 
